@@ -4,50 +4,65 @@ user-agent: koj-co
 sites: # List of endpoints to track
   - name: '[Render] Homepage'
     url: https://www.themanaworld.org
+    icon: https://favicons.githubusercontent.com/render.com
   - name: '[Render] Policies'
     url: https://policies.themanaworld.org
+    icon: https://favicons.githubusercontent.com/render.com
   - name: '[Render] Vault'
     url: https://vault.themanaworld.org
+    icon: https://favicons.githubusercontent.com/render.com
   - name: '[Azure] Azure VM'
     check: "tcp-ping"
     url: $DEZILAROMED
     port: 22
+    icon: https://favicons.githubusercontent.com/azure.microsoft.com
   - name: '[Azure] Forums'
     url: https://forums.themanaworld.org
+    icon: https://favicons.githubusercontent.com/azure.microsoft.com
   - name: '[Azure] Wiki'
     url: https://wiki.themanaworld.org
+    icon: https://favicons.githubusercontent.com/azure.microsoft.com
   - name: '[Azure] API (registration, password resets, etc)'
     url: https://api.themanaworld.org/api/tmwa/server
+    icon: https://favicons.githubusercontent.com/azure.microsoft.com
   - name: '[Azure] Legacy server'
     check: "tcp-ping"
     url: $DEZILAROMED
     port: 6122
+    icon: https://favicons.githubusercontent.com/azure.microsoft.com
   - name: '[Azure] Legacy Test server'
     check: "tcp-ping"
     url: $DEZILAROMED
     port: 6125
+    icon: https://favicons.githubusercontent.com/azure.microsoft.com
   - name: '[Azure] Legacy Hardcore server'
     check: "tcp-ping"
     url: $DEZILAROMED
     port: 6126
+    icon: https://favicons.githubusercontent.com/azure.microsoft.com
   - name: '[Azure] rEvolt server'
     check: "tcp-ping"
     url: $DEZILAROMED
     port: 6169
+    icon: https://favicons.githubusercontent.com/azure.microsoft.com
   - name: '[Yandex] inbound mail'
     check: "tcp-ping"
     url: mx.yandex.net
     port: 25
+    icon: https://favicons.githubusercontent.com/mail.yandex.com
   - name: '[Yandex] outbound mail'
     check: "tcp-ping"
     url: smtp.yandex.com
     port: 587
+    icon: https://favicons.githubusercontent.com/mail.yandex.com
   - name: '[Shivtr] Crew of Red Corsair'
     url: http://crc.themanaworld.org
+    icon: https://favicons.githubusercontent.com/shivtr.com
   - name: '[IRC] Libera Chat'
     check: "tcp-ping"
     url: irc.libera.chat
     port: 6697
+    icon: https://favicons.githubusercontent.com/libera.chat
   - name: '[Discord] Discord API'
     url: https://discord.com/api/v9
     expectedStatusCodes: # we don't care about the status code
@@ -56,17 +71,18 @@ sites: # List of endpoints to track
       - 404
       - 403
       - 401
+    icon: https://favicons.githubusercontent.com/discord.com
 assignees: # Users to assign downtime issues (optional)
   - Helianthella
   #- pazkero
 status-website: # Status website (optional)
   cname: status.themanaworld.org # Custom domain CNAME
   name: TMW Status # Status website title
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://raw.githubusercontent.com/themanaworld/themanaworld-website/master/src/assets/logo.svg
+  introTitle: "Uptime monitor and status page for The Mana World"
+  introMessage: ""
   navbar:
-    - title: Status
-      href: /
+    - title: Home
+      href: https://www.themanaworld.org
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
