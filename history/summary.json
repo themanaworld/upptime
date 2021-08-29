@@ -138,7 +138,7 @@
   },
   {
     "name": "[Azure] Mana Launcher",
-    "url": "https://api.themanaworld.org",
+    "url": "https://api.themanaworld.org:13370/status/ping",
     "icon": "https://favicons.githubusercontent.com/azure.microsoft.com",
     "slug": "azure-mana-launcher",
     "status": "up",
