@@ -25,6 +25,11 @@ sites: # List of endpoints to track
   - name: '[Azure] API (registration, password resets, etc)'
     url: https://api.themanaworld.org/api/tmwa/server
     icon: https://favicons.githubusercontent.com/azure.microsoft.com
+  - name: '[Azure] Mana Launcher'
+    check: "tcp-ping"
+    url: https://api.themanaworld.org
+    port: 13370
+    icon: https://favicons.githubusercontent.com/azure.microsoft.com
   - name: '[Azure] Legacy server'
     check: "tcp-ping"
     url: $DEZILAROMED
