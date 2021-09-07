@@ -141,19 +141,19 @@
     "url": "https://api.themanaworld.org:13370/status/ping",
     "icon": "https://favicons.githubusercontent.com/azure.microsoft.com",
     "slug": "azure-mana-launcher",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 410,
-    "timeDay": 360,
-    "timeWeek": 372,
-    "timeMonth": 410,
-    "timeYear": 410,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 424,
+    "timeDay": 459,
+    "timeWeek": 395,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {
-      "2021-09-07": 0
+      "2021-09-07": 24
     }
   },
   {
