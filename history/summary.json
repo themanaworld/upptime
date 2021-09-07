@@ -141,9 +141,9 @@
     "url": "https://api.themanaworld.org:13370/status/ping",
     "icon": "https://favicons.githubusercontent.com/azure.microsoft.com",
     "slug": "azure-mana-launcher",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -152,7 +152,9 @@
     "timeWeek": 372,
     "timeMonth": 410,
     "timeYear": 410,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-07": 0
+    }
   },
   {
     "name": "[Azure] Legacy server",
