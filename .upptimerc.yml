@@ -83,7 +83,7 @@ sites: # List of endpoints to track
     icon: https://favicons.githubusercontent.com/discord.com
 assignees: # Users to assign downtime issues (optional)
   - Helianthella
-  #- pazkero
+  - pazkero
 status-website: # Status website (optional)
   cname: status.themanaworld.org # Custom domain CNAME
   name: TMW Status # Status website title
