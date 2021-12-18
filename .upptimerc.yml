@@ -54,6 +54,9 @@ sites: # List of endpoints to track
     url: $DEZILAROMED
     port: 6169
     icon: https://favicons.githubusercontent.com/azure.microsoft.com
+  - name: '[OVH] Serenata'
+    url: http://serenata.tmw2.org
+    icon: https://avatars3.githubusercontent.com/ovh
   - name: '[Yandex] inbound mail'
     check: "tcp-ping"
     url: mx.yandex.net
@@ -80,7 +83,10 @@ sites: # List of endpoints to track
       - 404
       - 403
       - 401
-    icon: https://favicons.githubusercontent.com/discord.com
+    icon: https://avatars3.githubusercontent.com/discord
+  - name: '[Gitlab] Gitlab'
+    url: https://gitlab.com/themanaworld
+    icon: https://avatars3.githubusercontent.com/gitlab
 assignees: # Users to assign downtime issues (optional)
   - Helianthella
   - pazkero
