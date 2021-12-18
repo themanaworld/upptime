@@ -57,6 +57,8 @@ sites: # List of endpoints to track
   - name: '[OVH] Serenata'
     url: http://serenata.tmw2.org
     icon: https://avatars3.githubusercontent.com/ovh
+  - name: '[FRS] ManaVerse'
+    url: https://manaplus.germantmw.de
   - name: '[Yandex] inbound mail'
     check: "tcp-ping"
     url: mx.yandex.net
