@@ -348,10 +348,10 @@
     "url": "https://discord.com/api/v9",
     "icon": "https://avatars3.githubusercontent.com/discord",
     "slug": "discord-discord-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
@@ -359,7 +359,9 @@
     "timeWeek": 85,
     "timeMonth": 94,
     "timeYear": 99,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-26": 1
+    }
   },
   {
     "name": "[Gitlab] Gitlab",
