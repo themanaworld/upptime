@@ -143,11 +143,11 @@
     "icon": "https://favicons.githubusercontent.com/azure.microsoft.com",
     "slug": "azure-mana-launcher",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 422,
     "timeDay": 608,
     "timeWeek": 454,
@@ -255,18 +255,20 @@
     "url": "https://manaplus.germantmw.de",
     "icon": "https://favicons.githubusercontent.com/manaplus.germantmw.de",
     "slug": "frs-mana-verse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 499,
     "timeDay": 579,
-    "timeWeek": 478,
+    "timeWeek": 514,
     "timeMonth": 486,
     "timeYear": 499,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-16": 0
+    }
   },
   {
     "name": "[Yandex] inbound mail",
