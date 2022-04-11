@@ -240,9 +240,9 @@
     "url": "http://serenata.tmw2.org",
     "icon": "https://avatars3.githubusercontent.com/ovh",
     "slug": "ovh-serenata",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -251,7 +251,9 @@
     "timeWeek": 352,
     "timeMonth": 328,
     "timeYear": 336,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-11": 0
+    }
   },
   {
     "name": "[FRS] ManaVerse",
