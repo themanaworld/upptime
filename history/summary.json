@@ -240,19 +240,19 @@
     "url": "http://serenata.tmw2.org",
     "icon": "https://avatars3.githubusercontent.com/ovh",
     "slug": "ovh-serenata",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 193,
-    "timeWeek": 352,
-    "timeMonth": 328,
-    "timeYear": 336,
+    "time": 335,
+    "timeDay": 187,
+    "timeWeek": 331,
+    "timeMonth": 323,
+    "timeYear": 335,
     "dailyMinutesDown": {
-      "2022-04-11": 0
+      "2022-04-11": 7
     }
   },
   {
