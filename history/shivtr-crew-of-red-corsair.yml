@@ -1,7 +1,7 @@
 url: http://crc.themanaworld.org
-status: up
-code: 200
-responseTime: 320
-lastUpdated: 2022-05-18T23:14:40.317Z
+status: down
+code: 502
+responseTime: 205
+lastUpdated: 2022-05-19T19:53:07.454Z
 startTime: Wed Aug 11 2021 18:22:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
