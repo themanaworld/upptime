@@ -342,9 +342,9 @@
     "url": "irc.libera.chat",
     "icon": "https://favicons.githubusercontent.com/libera.chat",
     "slug": "irc-libera-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -353,7 +353,9 @@
     "timeWeek": 94,
     "timeMonth": 115,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-07": 0
+    }
   },
   {
     "name": "[Discord] Discord API",
