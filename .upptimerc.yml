@@ -87,8 +87,13 @@ sites: # List of endpoints to track
       - 401
     icon: https://avatars3.githubusercontent.com/discord
   - name: '[Gitlab] Gitlab'
-    url: https://gitlab.com/themanaworld
+    url: https://git.themanaworld.org/explore
     icon: https://avatars3.githubusercontent.com/gitlab
+  - name: '[Agnus] Lightweight Gitlab Runner'
+    check: "tcp-ping"
+    url: alumni.cacic.bsb.br
+    port: 443
+    icon: https://favicons.githubusercontent.com/azure.microsoft.com
 assignees: # Users to assign downtime issues (optional)
   - Helianthella
   - pazkero
