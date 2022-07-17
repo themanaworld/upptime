@@ -416,19 +416,19 @@
     "url": "alumni.cacic.bsb.br",
     "icon": "https://favicons.githubusercontent.com/azure.microsoft.com",
     "slug": "agnus-lightweight-gitlab-runner",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 112,
-    "timeWeek": 148,
-    "timeMonth": 153,
-    "timeYear": 153,
+    "status": "up",
+    "uptime": "99.24%",
+    "uptimeDay": "88.16%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
+    "time": 155,
+    "timeDay": 150,
+    "timeWeek": 153,
+    "timeMonth": 155,
+    "timeYear": 155,
     "dailyMinutesDown": {
-      "2022-07-17": 0
+      "2022-07-17": 170
     }
   }
 ]
