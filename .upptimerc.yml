@@ -66,7 +66,7 @@ sites: # List of endpoints to track
     url: https://manaplus.germantmw.de
   - name: '[FRS] Moubootaur Legends'
     check: "tcp-ping"
-    url: server.tmw2.org
+    url: $GLADOS
     port: 5122
   - name: '[Yandex] inbound mail'
     check: "tcp-ping"
