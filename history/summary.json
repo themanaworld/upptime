@@ -280,7 +280,7 @@
     "slug": "azure-legacy-hardcore-server",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "77.77%",
+    "uptimeDay": "77.71%",
     "uptimeWeek": "96.82%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.93%",
@@ -387,18 +387,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "frs-moubootaur-legends",
     "status": "down",
-    "uptime": "5.00%",
-    "uptimeDay": "5.00%",
-    "uptimeWeek": "5.00%",
-    "uptimeMonth": "5.00%",
-    "uptimeYear": "5.00%",
+    "uptime": "2.89%",
+    "uptimeDay": "2.89%",
+    "uptimeWeek": "2.89%",
+    "uptimeMonth": "2.89%",
+    "uptimeYear": "2.89%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-25": 1
+      "2022-10-25": 2
     }
   },
   {
