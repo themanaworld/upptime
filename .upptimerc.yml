@@ -67,7 +67,7 @@ sites: # List of endpoints to track
   - name: '[FRS] Moubootaur Legends'
     check: "tcp-ping"
     url: $GLADOS
-    port: 5122
+    port: 6122
   - name: '[Yandex] inbound mail'
     check: "tcp-ping"
     url: mx.yandex.net
