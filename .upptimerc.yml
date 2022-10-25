@@ -54,11 +54,20 @@ sites: # List of endpoints to track
     url: $DEZILAROMED
     port: 6169
     icon: https://favicons.githubusercontent.com/azure.microsoft.com
+  - name: '[Azure] Crossroads server'
+    check: "tcp-ping"
+    url: $DEZILAROMED
+    port: 6900
+    icon: https://favicons.githubusercontent.com/azure.microsoft.com
   - name: '[OVH] Serenata'
     url: http://serenata.tmw2.org
     icon: https://avatars3.githubusercontent.com/ovh
   - name: '[FRS] ManaVerse'
     url: https://manaplus.germantmw.de
+  - name: '[FRS] Moubootaur Legends'
+    check: "tcp-ping"
+    url: server.tmw2.org
+    port: 5122
   - name: '[Yandex] inbound mail'
     check: "tcp-ping"
     url: mx.yandex.net
