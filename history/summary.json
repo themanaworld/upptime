@@ -47,9 +47,9 @@
     "icon": "https://favicons.githubusercontent.com/render.com",
     "slug": "render-policies",
     "status": "up",
-    "uptime": "94.78%",
+    "uptime": "94.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.94%",
+    "uptimeWeek": "96.06%",
     "uptimeMonth": "95.62%",
     "uptimeYear": "93.70%",
     "time": 495,
@@ -302,7 +302,7 @@
     "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.56%",
+    "uptimeWeek": "92.93%",
     "uptimeMonth": "97.14%",
     "uptimeYear": "99.76%",
     "time": 107,
@@ -339,10 +339,10 @@
     "url": "http://serenata.tmw2.org",
     "icon": "https://avatars3.githubusercontent.com/ovh",
     "slug": "ovh-serenata",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 378,
@@ -351,6 +351,7 @@
     "timeMonth": 341,
     "timeYear": 378,
     "dailyMinutesDown": {
+      "2022-10-27": 1,
       "2022-06-16": 10
     }
   },
@@ -398,7 +399,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-27": 117,
+      "2022-10-27": 1238,
       "2022-10-26": 1440,
       "2022-10-25": 271
     }
