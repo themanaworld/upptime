@@ -47,7 +47,7 @@
     "icon": "https://favicons.githubusercontent.com/render.com",
     "slug": "render-policies",
     "status": "up",
-    "uptime": "95.04%",
+    "uptime": "95.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.62%",
@@ -237,10 +237,10 @@
     "url": "$DEZILAROMED",
     "icon": "https://favicons.githubusercontent.com/azure.microsoft.com",
     "slug": "azure-legacy-server",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.94%",
     "time": 108,
@@ -249,6 +249,7 @@
     "timeMonth": 115,
     "timeYear": 107,
     "dailyMinutesDown": {
+      "2022-11-19": 1,
       "2022-10-25": 271,
       "2022-07-17": 29
     }
@@ -258,9 +259,9 @@
     "url": "$DEZILAROMED",
     "icon": "https://favicons.githubusercontent.com/azure.microsoft.com",
     "slug": "azure-legacy-test-server",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.94%",
@@ -270,6 +271,7 @@
     "timeMonth": 116,
     "timeYear": 107,
     "dailyMinutesDown": {
+      "2022-11-19": 0,
       "2022-10-25": 271,
       "2022-07-17": 29
     }
@@ -400,7 +402,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-19": 103,
+      "2022-11-19": 595,
       "2022-11-18": 1440,
       "2022-11-17": 1440,
       "2022-11-16": 1440,
