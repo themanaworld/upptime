@@ -44,11 +44,6 @@ sites: # List of endpoints to track
     url: $DEZILAROMED
     port: 6125
     icon: https://favicons.githubusercontent.com/azure.microsoft.com
-  - name: '[Azure] Legacy Hardcore server'
-    check: "tcp-ping"
-    url: $DEZILAROMED
-    port: 6126
-    icon: https://favicons.githubusercontent.com/azure.microsoft.com
   - name: '[Azure] rEvolt server'
     check: "tcp-ping"
     url: $DEZILAROMED
