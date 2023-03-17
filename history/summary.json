@@ -216,10 +216,10 @@
     "url": "https://api.themanaworld.org:13370/status/ping",
     "icon": "https://favicons.githubusercontent.com/azure.microsoft.com",
     "slug": "azure-mana-launcher",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
     "time": 463,
@@ -228,6 +228,7 @@
     "timeMonth": 483,
     "timeYear": 475,
     "dailyMinutesDown": {
+      "2023-03-17": 1,
       "2023-01-24": 203,
       "2022-11-25": 884,
       "2022-11-24": 1440,
@@ -286,10 +287,10 @@
     "url": "$DEZILAROMED",
     "icon": "https://favicons.githubusercontent.com/azure.microsoft.com",
     "slug": "azure-r-evolt-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 108,
@@ -298,6 +299,7 @@
     "timeMonth": 108,
     "timeYear": 109,
     "dailyMinutesDown": {
+      "2023-03-17": 1,
       "2022-10-25": 316,
       "2022-10-21": 195,
       "2022-10-20": 743
@@ -308,10 +310,10 @@
     "url": "$DEZILAROMED",
     "icon": "https://favicons.githubusercontent.com/azure.microsoft.com",
     "slug": "azure-crossroads-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
@@ -319,7 +321,9 @@
     "timeWeek": 107,
     "timeMonth": 108,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-17": 1
+    }
   },
   {
     "name": "[OVH] Serenata",
@@ -490,7 +494,7 @@
     "status": "up",
     "uptime": "99.36%",
     "uptimeDay": "89.13%",
-    "uptimeWeek": "67.96%",
+    "uptimeWeek": "70.49%",
     "uptimeMonth": "92.14%",
     "uptimeYear": "99.21%",
     "time": 630,
