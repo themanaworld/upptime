@@ -8,9 +8,6 @@ sites: # List of endpoints to track
   - name: '[Render] Policies'
     url: https://policies.themanaworld.org
     icon: https://favicons.githubusercontent.com/render.com
-  - name: '[Render] Vault'
-    url: https://vault.themanaworld.org
-    icon: https://favicons.githubusercontent.com/render.com
   - name: '[Azure] Azure VM'
     check: "tcp-ping"
     url: $DEZILAROMED
