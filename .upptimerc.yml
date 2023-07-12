@@ -69,7 +69,7 @@ sites: # List of endpoints to track
   - name: '[Agnus] Moubootaur Legends server'
     check: "tcp-ping"
     url: $AGNUS
-    port: 5122
+    port: 6122
     icon: https://avatars3.githubusercontent.com/ovh
   - name: '[Agnus] Mana Spheres server'
     check: "tcp-ping"
