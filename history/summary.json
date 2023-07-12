@@ -298,19 +298,17 @@
     "icon": "https://avatars.githubusercontent.com/u/89639940",
     "slug": "agnus-moubootaur-legends-server",
     "status": "up",
-    "uptime": "71.63%",
-    "uptimeDay": "71.63%",
-    "uptimeWeek": "71.63%",
-    "uptimeMonth": "71.63%",
-    "uptimeYear": "71.63%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 113,
     "timeDay": 113,
     "timeWeek": 113,
     "timeMonth": 113,
     "timeYear": 113,
-    "dailyMinutesDown": {
-      "2023-07-12": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "[Agnus] Mana Spheres server",
