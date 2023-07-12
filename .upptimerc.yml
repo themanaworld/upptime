@@ -77,7 +77,7 @@ sites: # List of endpoints to track
     port: 61000
     icon: https://avatars3.githubusercontent.com/ovh
   - name: '[Agnus] Source of Mana server'
-    check: "tcp-ping"
+    check: "udp-ping"
     url: $AGNUS
     port: 6109
     icon: https://avatars3.githubusercontent.com/ovh
