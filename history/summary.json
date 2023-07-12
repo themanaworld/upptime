@@ -43,18 +43,18 @@
     "icon": "https://avatars3.githubusercontent.com/ovh",
     "slug": "frs-glados-vm",
     "status": "down",
-    "uptime": "10.51%",
-    "uptimeDay": "10.51%",
-    "uptimeWeek": "10.51%",
-    "uptimeMonth": "10.51%",
-    "uptimeYear": "10.51%",
+    "uptime": "5.40%",
+    "uptimeDay": "5.40%",
+    "uptimeWeek": "5.40%",
+    "uptimeMonth": "5.40%",
+    "uptimeYear": "5.40%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-12": 0
+      "2023-07-12": 1
     }
   },
   {
