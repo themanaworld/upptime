@@ -22,16 +22,16 @@ sites: # List of endpoints to track
     icon: https://avatars3.githubusercontent.com/ovh
   - name: '[Azure] Homepage'
     url: https://www.themanaworld.org
-    icon: https://avatars.githubusercontent.com/u/26615988
+    icon: https://avatars.githubusercontent.com/u/9950313
   - name: '[Azure] Policies'
     url: https://policies.themanaworld.org
-    icon: https://avatars.githubusercontent.com/u/26615988
+    icon: https://avatars.githubusercontent.com/u/9950313
   - name: '[Azure] Forums'
     url: https://forums.themanaworld.org
-    icon: https://avatars.githubusercontent.com/u/26615988
+    icon: https://avatars.githubusercontent.com/u/1412239
   - name: '[Azure] Wiki'
     url: https://wiki.themanaworld.org
-    icon: https://avatars.githubusercontent.com/u/26615988
+    icon: https://avatars.githubusercontent.com/u/47359
   - name: '[FRS] ManaVerse'
     url: https://manaplus.germantmw.de
   - name: '[Azure] Mana Launcher'
@@ -69,7 +69,7 @@ sites: # List of endpoints to track
   - name: '[Agnus] Moubootaur Legends server'
     check: "tcp-ping"
     url: $AGNUS
-    port: 6122
+    port: 6901
     icon: https://avatars.githubusercontent.com/u/89639940
   - name: '[Agnus] Mana Spheres server'
     check: "tcp-ping"
