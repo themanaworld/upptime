@@ -11,7 +11,7 @@ sites: # List of endpoints to track
     check: "tcp-ping"
     url: $AGNUS
     port: 443
-    icon: https://avatars3.githubusercontent.com/ovh
+    icon: https://avatars.githubusercontent.com/u/89639940
 #  - name: '[FRS] Glados VM'
 #    check: "tcp-ping"
 #    url: $GLADOS
@@ -60,27 +60,27 @@ sites: # List of endpoints to track
     check: "tcp-ping"
     url: $DEZILAROMED
     port: 6169
-    icon: https://favicons.githubusercontent.com/azure.microsoft.com
+    icon: https://avatars.githubusercontent.com/u/6154722
   - name: '[Azure] Crossroads server'
     check: "tcp-ping"
     url: $DEZILAROMED
     port: 6900
-    icon: https://favicons.githubusercontent.com/azure.microsoft.com
+    icon: https://avatars.githubusercontent.com/u/6154722
   - name: '[Agnus] Moubootaur Legends server'
     check: "tcp-ping"
     url: $AGNUS
     port: 6122
-    icon: https://avatars3.githubusercontent.com/ovh
+    icon: https://avatars.githubusercontent.com/u/89639940
   - name: '[Agnus] Mana Spheres server'
     check: "tcp-ping"
     url: $AGNUS
     port: 61000
-    icon: https://avatars3.githubusercontent.com/ovh
+    icon: https://avatars.githubusercontent.com/u/89639940
   - name: '[Agnus] Source of Mana server'
     check: "udp-ping"
     url: $AGNUS
     port: 6109
-    icon: https://avatars3.githubusercontent.com/ovh
+    icon: https://avatars.githubusercontent.com/u/89639940
   - name: '[Shivtr] Crew of Red Corsair'
     url: http://crc.themanaworld.org
     icon: https://favicons.githubusercontent.com/shivtr.com
