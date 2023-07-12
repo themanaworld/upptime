@@ -22,16 +22,18 @@ sites: # List of endpoints to track
     icon: https://avatars3.githubusercontent.com/ovh
   - name: '[Azure] Homepage'
     url: https://www.themanaworld.org
-    icon: https://favicons.githubusercontent.com/render.com
+    icon: https://avatars.githubusercontent.com/u/26615988
   - name: '[Azure] Policies'
     url: https://policies.themanaworld.org
-    icon: https://favicons.githubusercontent.com/render.com
+    icon: https://avatars.githubusercontent.com/u/26615988
   - name: '[Azure] Forums'
     url: https://forums.themanaworld.org
-    icon: https://favicons.githubusercontent.com/azure.microsoft.com
+    icon: https://avatars.githubusercontent.com/u/26615988
   - name: '[Azure] Wiki'
     url: https://wiki.themanaworld.org
-    icon: https://favicons.githubusercontent.com/azure.microsoft.com
+    icon: https://avatars.githubusercontent.com/u/26615988
+  - name: '[FRS] ManaVerse'
+    url: https://manaplus.germantmw.de
   - name: '[Azure] Mana Launcher'
     url: https://api.themanaworld.org:13370/status/ping
     expectedStatusCodes: # we don't care about the status code
@@ -40,7 +42,7 @@ sites: # List of endpoints to track
       - 404
       - 403
       - 401
-    icon: https://favicons.githubusercontent.com/azure.microsoft.com
+    icon: https://avatars.githubusercontent.com/u/1402939
   - name: '[Azure] Legacy API'
     url: https://api.themanaworld.org/api/tmwa/server
     icon: https://avatars.githubusercontent.com/u/6154722
@@ -67,10 +69,18 @@ sites: # List of endpoints to track
   - name: '[Agnus] Moubootaur Legends server'
     check: "tcp-ping"
     url: $AGNUS
-    port: 6901
+    port: 5122
     icon: https://avatars3.githubusercontent.com/ovh
-  - name: '[FRS] ManaVerse'
-    url: https://manaplus.germantmw.de
+  - name: '[Agnus] Mana Spheres server'
+    check: "tcp-ping"
+    url: $AGNUS
+    port: 61000
+    icon: https://avatars3.githubusercontent.com/ovh
+  - name: '[Agnus] Source of Mana server'
+    check: "tcp-ping"
+    url: $AGNUS
+    port: 6109
+    icon: https://avatars3.githubusercontent.com/ovh
   - name: '[Shivtr] Crew of Red Corsair'
     url: http://crc.themanaworld.org
     icon: https://favicons.githubusercontent.com/shivtr.com
