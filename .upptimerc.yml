@@ -2,25 +2,30 @@ owner: themanaworld # GitHub username
 repo: upptime # GitHub repository name
 user-agent: koj-co
 sites: # List of endpoints to track
-  - name: '[Render] Homepage'
-    url: https://www.themanaworld.org
-    icon: https://favicons.githubusercontent.com/render.com
-  - name: '[Render] Policies'
-    url: https://policies.themanaworld.org
-    icon: https://favicons.githubusercontent.com/render.com
   - name: '[Azure] Azure VM'
     check: "tcp-ping"
     url: $DEZILAROMED
     port: 443
     icon: https://favicons.githubusercontent.com/azure.microsoft.com
+  - name: '[Agnus] Agnus Dei VM'
+    check: "tcp-ping"
+    url: alumni.cacic.bsb.br
+    port: 443
+    icon: https://avatars3.githubusercontent.com/ovh
+  - name: '[OVH] Serenata'
+    url: http://serenata.tmw2.org
+    icon: https://avatars3.githubusercontent.com/ovh
+  - name: '[Azure] Homepage'
+    url: https://www.themanaworld.org
+    icon: https://favicons.githubusercontent.com/render.com
+  - name: '[Azure] Policies'
+    url: https://policies.themanaworld.org
+    icon: https://favicons.githubusercontent.com/render.com
   - name: '[Azure] Forums'
     url: https://forums.themanaworld.org
     icon: https://favicons.githubusercontent.com/azure.microsoft.com
   - name: '[Azure] Wiki'
     url: https://wiki.themanaworld.org
-    icon: https://favicons.githubusercontent.com/azure.microsoft.com
-  - name: '[Azure] API (registration, password resets, etc)'
-    url: https://api.themanaworld.org/api/tmwa/server
     icon: https://favicons.githubusercontent.com/azure.microsoft.com
   - name: '[Azure] Mana Launcher'
     url: https://api.themanaworld.org:13370/status/ping
@@ -30,6 +35,9 @@ sites: # List of endpoints to track
       - 404
       - 403
       - 401
+    icon: https://favicons.githubusercontent.com/azure.microsoft.com
+  - name: '[Azure] Legacy API (TMW Classic password resets)'
+    url: https://api.themanaworld.org/api/tmwa/server
     icon: https://favicons.githubusercontent.com/azure.microsoft.com
   - name: '[Azure] Legacy server'
     check: "tcp-ping"
@@ -51,21 +59,8 @@ sites: # List of endpoints to track
     url: $DEZILAROMED
     port: 6900
     icon: https://favicons.githubusercontent.com/azure.microsoft.com
-  - name: '[OVH] Serenata'
-    url: http://serenata.tmw2.org
-    icon: https://avatars3.githubusercontent.com/ovh
   - name: '[FRS] ManaVerse'
     url: https://manaplus.germantmw.de
-  - name: '[Yandex] inbound mail'
-    check: "tcp-ping"
-    url: mx.yandex.net
-    port: 25
-    icon: https://favicons.githubusercontent.com/mail.yandex.com
-  - name: '[Yandex] outbound mail'
-    check: "tcp-ping"
-    url: smtp.yandex.com
-    port: 587
-    icon: https://favicons.githubusercontent.com/mail.yandex.com
   - name: '[Shivtr] Crew of Red Corsair'
     url: http://crc.themanaworld.org
     icon: https://favicons.githubusercontent.com/shivtr.com
@@ -86,11 +81,6 @@ sites: # List of endpoints to track
   - name: '[Gitlab] Gitlab'
     url: https://git.themanaworld.org/explore
     icon: https://avatars3.githubusercontent.com/gitlab
-  - name: '[Agnus] Lightweight Gitlab Runner'
-    check: "tcp-ping"
-    url: alumni.cacic.bsb.br
-    port: 443
-    icon: https://favicons.githubusercontent.com/azure.microsoft.com
 assignees: # Users to assign downtime issues (optional)
   - Helianthella
   - pazkero
