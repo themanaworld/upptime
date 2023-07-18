@@ -194,19 +194,19 @@
     "url": "https://api.themanaworld.org/api/tmwa/server",
     "icon": "https://avatars.githubusercontent.com/u/6154722",
     "slug": "azure-legacy-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 500,
-    "timeDay": 678,
-    "timeWeek": 500,
-    "timeMonth": 500,
-    "timeYear": 500,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 504,
+    "timeDay": 637,
+    "timeWeek": 504,
+    "timeMonth": 504,
+    "timeYear": 504,
     "dailyMinutesDown": {
-      "2023-07-18": 1
+      "2023-07-18": 11
     }
   },
   {
