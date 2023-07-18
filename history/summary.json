@@ -194,18 +194,20 @@
     "url": "https://api.themanaworld.org/api/tmwa/server",
     "icon": "https://avatars.githubusercontent.com/u/6154722",
     "slug": "azure-legacy-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 490,
-    "timeDay": 736,
-    "timeWeek": 490,
-    "timeMonth": 490,
-    "timeYear": 490,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 500,
+    "timeDay": 678,
+    "timeWeek": 500,
+    "timeMonth": 500,
+    "timeYear": 500,
+    "dailyMinutesDown": {
+      "2023-07-18": 1
+    }
   },
   {
     "name": "[Azure] Legacy server",
