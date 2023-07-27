@@ -25,18 +25,18 @@
     "icon": "https://avatars.githubusercontent.com/u/89639940",
     "slug": "agnus-agnus-dei-vm",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.82%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 116,
     "timeDay": 154,
     "timeWeek": 116,
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2023-07-27": 5
+      "2023-07-27": 40
     }
   },
   {
@@ -144,18 +144,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/manaplus.germantmw.de.ico",
     "slug": "frs-mana-verse",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.92%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.94%",
     "time": 592,
     "timeDay": 501,
     "timeWeek": 475,
     "timeMonth": 501,
     "timeYear": 618,
     "dailyMinutesDown": {
-      "2023-07-27": 4,
+      "2023-07-27": 39,
       "2023-04-14": 87,
       "2022-12-27": 16,
       "2022-12-23": 55,
@@ -300,18 +300,18 @@
     "icon": "https://avatars.githubusercontent.com/u/89639940",
     "slug": "agnus-moubootaur-legends-server",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.83%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 115,
     "timeDay": 154,
     "timeWeek": 115,
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-07-27": 2
+      "2023-07-27": 37
     }
   },
   {
@@ -320,18 +320,18 @@
     "icon": "https://avatars.githubusercontent.com/u/89639940",
     "slug": "agnus-mana-spheres-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.84%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 115,
     "timeDay": 154,
     "timeWeek": 115,
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-07-27": 1
+      "2023-07-27": 36
     }
   },
   {
@@ -339,19 +339,19 @@
     "url": "$AGNUS",
     "icon": "https://avatars.githubusercontent.com/u/89639940",
     "slug": "agnus-source-of-mana-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 310,
-    "timeWeek": 232,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 614,
+    "timeDay": 3873,
+    "timeWeek": 1133,
+    "timeMonth": 614,
+    "timeYear": 614,
     "dailyMinutesDown": {
-      "2023-07-27": 0
+      "2023-07-27": 35
     }
   },
   {
