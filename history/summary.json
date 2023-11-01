@@ -307,10 +307,10 @@
     "url": "$AGNUS",
     "icon": "https://avatars.githubusercontent.com/u/89639940",
     "slug": "agnus-moubootaur-legends-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 119,
@@ -319,6 +319,7 @@
     "timeMonth": 120,
     "timeYear": 119,
     "dailyMinutesDown": {
+      "2023-11-01": 1,
       "2023-07-27": 40
     }
   },
