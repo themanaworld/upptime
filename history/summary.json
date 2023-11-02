@@ -46,17 +46,17 @@
     "slug": "ovh-serenata",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "94.51%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.98%",
     "time": 369,
     "timeDay": 315,
     "timeWeek": 330,
     "timeMonth": 330,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2023-11-02": 0,
+      "2023-11-02": 64,
       "2023-11-01": 15,
       "2023-10-31": 16
     }
