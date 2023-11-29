@@ -55,7 +55,7 @@
     "timeDay": 720,
     "timeWeek": 761,
     "timeMonth": 467,
-    "timeYear": 366,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2023-11-06": 295,
       "2023-11-05": 138,
@@ -89,19 +89,19 @@
     "url": "https://policies.themanaworld.org",
     "icon": "https://avatars.githubusercontent.com/u/9950313",
     "slug": "azure-policies",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 674,
-    "timeDay": 0,
-    "timeWeek": 619,
+    "timeDay": 673,
+    "timeWeek": 627,
     "timeMonth": 662,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2023-11-29": 1
+      "2023-11-29": 13
     }
   },
   {
@@ -109,19 +109,19 @@
     "url": "https://forums.themanaworld.org",
     "icon": "https://avatars.githubusercontent.com/u/1412239",
     "slug": "azure-forums",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 1083,
-    "timeDay": 0,
-    "timeWeek": 838,
-    "timeMonth": 764,
-    "timeYear": 1017,
+    "time": 1082,
+    "timeDay": 692,
+    "timeWeek": 817,
+    "timeMonth": 762,
+    "timeYear": 1016,
     "dailyMinutesDown": {
-      "2023-11-29": 1,
+      "2023-11-29": 13,
       "2023-03-17": 90,
       "2023-01-09": 12
     }
@@ -141,7 +141,7 @@
     "timeDay": 338,
     "timeWeek": 369,
     "timeMonth": 393,
-    "timeYear": 529,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2023-06-30": 821,
       "2023-06-29": 47,
@@ -218,19 +218,19 @@
     "url": "https://api.themanaworld.org/api/tmwa/server",
     "icon": "https://avatars.githubusercontent.com/u/6154722",
     "slug": "azure-legacy-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 0,
-    "timeWeek": 441,
-    "timeMonth": 459,
-    "timeYear": 508,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 507,
+    "timeDay": 351,
+    "timeWeek": 428,
+    "timeMonth": 456,
+    "timeYear": 507,
     "dailyMinutesDown": {
-      "2023-11-29": 1
+      "2023-11-29": 13
     }
   },
   {
@@ -428,7 +428,7 @@
     "timeDay": 45,
     "timeWeek": 55,
     "timeMonth": 55,
-    "timeYear": 91,
+    "timeYear": 90,
     "dailyMinutesDown": {}
   },
   {
@@ -446,7 +446,7 @@
     "timeDay": 1336,
     "timeWeek": 1079,
     "timeMonth": 1021,
-    "timeYear": 950,
+    "timeYear": 951,
     "dailyMinutesDown": {
       "2023-11-29": 82,
       "2023-10-02": 399,
