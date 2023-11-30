@@ -90,19 +90,17 @@
     "icon": "https://avatars.githubusercontent.com/u/9950313",
     "slug": "azure-policies",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 674,
     "timeDay": 673,
     "timeWeek": 627,
     "timeMonth": 662,
     "timeYear": 674,
-    "dailyMinutesDown": {
-      "2023-11-29": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "[Azure] Forums",
@@ -111,9 +109,9 @@
     "slug": "azure-forums",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1082,
     "timeDay": 692,
@@ -121,7 +119,6 @@
     "timeMonth": 762,
     "timeYear": 1016,
     "dailyMinutesDown": {
-      "2023-11-29": 13,
       "2023-03-17": 90,
       "2023-01-09": 12
     }
@@ -219,19 +216,17 @@
     "icon": "https://avatars.githubusercontent.com/u/6154722",
     "slug": "azure-legacy-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 507,
     "timeDay": 351,
     "timeWeek": 428,
     "timeMonth": 456,
     "timeYear": 507,
-    "dailyMinutesDown": {
-      "2023-11-29": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "[Azure] Legacy server",
