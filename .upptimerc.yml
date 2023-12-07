@@ -71,11 +71,6 @@ sites: # List of endpoints to track
     url: $AGNUS
     port: 6901
     icon: https://avatars.githubusercontent.com/u/89639940
-  - name: '[Agnus] Mana Spheres server'
-    check: "tcp-ping"
-    url: $AGNUS
-    port: 61000
-    icon: https://avatars.githubusercontent.com/u/89639940
   - name: '[Agnus] Source of Mana server'
     check: "udp-ping"
     url: $AGNUS
