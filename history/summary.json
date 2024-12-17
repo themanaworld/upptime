@@ -44,15 +44,15 @@
     "uptime": "97.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "28.46%",
-    "uptimeYear": "94.04%",
+    "uptimeMonth": "28.30%",
+    "uptimeYear": "94.02%",
     "time": 428,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-17": 1,
+      "2024-12-17": 71,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -341,17 +341,17 @@
     "slug": "irc-libera-chat",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.99%",
     "time": 130,
     "timeDay": 20,
     "timeWeek": 76,
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2024-12-17": 0
+      "2024-12-17": 70
     }
   },
   {
