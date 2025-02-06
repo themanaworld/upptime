@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 527,
+      "2025-02-06": 532,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -245,19 +245,19 @@
     "url": "https://manaplus.germantmw.de",
     "icon": "https://icons.duckduckgo.com/ip3/manaplus.germantmw.de.ico",
     "slug": "frs-mana-verse",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 585,
-    "timeDay": 675,
-    "timeWeek": 594,
-    "timeMonth": 571,
-    "timeYear": 541,
+    "timeDay": 561,
+    "timeWeek": 576,
+    "timeMonth": 567,
+    "timeYear": 540,
     "dailyMinutesDown": {
-      "2025-02-06": 0
+      "2025-02-06": 5
     }
   },
   {
