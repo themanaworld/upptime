@@ -22,18 +22,20 @@
     "url": "$AGNUS",
     "icon": "https://avatars.githubusercontent.com/u/89639940",
     "slug": "agnus-agnus-dei-vm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 97,
     "timeWeek": 115,
     "timeMonth": 120,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-14": 4
+    }
   },
   {
     "name": "[OVH] Serenata",
@@ -41,18 +43,18 @@
     "icon": "https://avatars3.githubusercontent.com/ovh",
     "slug": "ovh-serenata",
     "status": "down",
-    "uptime": "88.35%",
+    "uptime": "88.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.70%",
+    "uptimeYear": "61.55%",
     "time": 440,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-14": 74,
+      "2025-04-14": 831,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -329,18 +331,19 @@
     "url": "https://manaplus.germantmw.de",
     "icon": "https://icons.duckduckgo.com/ip3/manaplus.germantmw.de.ico",
     "slug": "frs-mana-verse",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 564,
+    "time": 565,
     "timeDay": 450,
     "timeWeek": 534,
     "timeMonth": 537,
     "timeYear": 535,
     "dailyMinutesDown": {
+      "2025-04-14": 2,
       "2025-02-06": 5
     }
   },
@@ -463,10 +466,10 @@
     "url": "$AGNUS",
     "icon": "https://avatars.githubusercontent.com/u/89639940",
     "slug": "agnus-moubootaur-legends-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
@@ -474,17 +477,19 @@
     "timeWeek": 115,
     "timeMonth": 120,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-14": 1
+    }
   },
   {
     "name": "[Agnus] Source of Mana server",
     "url": "$AGNUS",
     "icon": "https://avatars.githubusercontent.com/u/89639940",
     "slug": "agnus-source-of-mana-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
@@ -492,7 +497,9 @@
     "timeWeek": 234,
     "timeMonth": 241,
     "timeYear": 246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-14": 1
+    }
   },
   {
     "name": "[Shivtr] Crew of Red Corsair",
