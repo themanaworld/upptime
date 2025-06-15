@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-15": 1176,
+      "2025-06-15": 1185,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -411,7 +411,7 @@
     "timeMonth": 718,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2025-06-15": 1176,
+      "2025-06-15": 1185,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -646,19 +646,19 @@
     "url": "http://crc.themanaworld.org",
     "icon": "https://favicons.githubusercontent.com/shivtr.com",
     "slug": "shivtr-crew-of-red-corsair",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "97.37%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "97.36%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "99.69%",
-    "time": 1398,
+    "time": 1399,
     "timeDay": 705,
     "timeWeek": 805,
     "timeMonth": 2189,
     "timeYear": 1837,
     "dailyMinutesDown": {
-      "2025-06-15": 24,
+      "2025-06-15": 25,
       "2025-06-14": 23,
       "2025-06-13": 13,
       "2025-06-12": 91,
@@ -699,8 +699,7 @@
       "2025-04-17": 11,
       "2025-04-14": 16,
       "2025-04-13": 21,
-      "2025-04-12": 48,
-      "2025-04-11": 5
+      "2025-04-12": 48
     }
   },
   {
@@ -752,7 +751,7 @@
     "uptime": "98.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.68%",
+    "uptimeMonth": "37.66%",
     "uptimeYear": "94.75%",
     "time": 972,
     "timeDay": 0,
@@ -760,7 +759,7 @@
     "timeMonth": 1000,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2025-06-15": 1177,
+      "2025-06-15": 1185,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
