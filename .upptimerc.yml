@@ -96,9 +96,9 @@ sites: # List of endpoints to track
       - 403
       - 401
     icon: https://avatars3.githubusercontent.com/discord
-  - name: '[Gitlab] Gitlab'
-    url: https://git.themanaworld.org/explore
-    icon: https://avatars3.githubusercontent.com/gitlab
+#  - name: '[Gitlab] Gitlab'
+#    url: https://git.themanaworld.org/explore
+#    icon: https://avatars3.githubusercontent.com/gitlab
   - name: '[SMTP] Office 365'
     check: "tcp-ping"
     url: smtp.office365.com
