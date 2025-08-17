@@ -82,11 +82,11 @@ sites: # List of endpoints to track
   - name: '[Shivtr] Crew of Red Corsair'
     url: http://crc.themanaworld.org
     icon: https://favicons.githubusercontent.com/shivtr.com
-  - name: '[IRC] Libera Chat'
-    check: "tcp-ping"
-    url: irc.libera.chat
-    port: 6697
-    icon: https://avatars.githubusercontent.com/u/83072334
+#  - name: '[IRC] Libera Chat'
+#    check: "tcp-ping"
+#    url: irc.libera.chat
+#    port: 6697
+#    icon: https://avatars.githubusercontent.com/u/83072334
   - name: '[Discord] Discord API'
     url: https://discord.com/api/v9
     expectedStatusCodes: # we don't care about the status code
