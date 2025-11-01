@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-01": 74,
+      "2025-11-01": 77,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
@@ -441,7 +441,7 @@
     "slug": "azure-policies",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "0.04%",
+    "uptimeDay": "0.25%",
     "uptimeWeek": "70.19%",
     "uptimeMonth": "93.14%",
     "uptimeYear": "99.42%",
@@ -588,7 +588,7 @@
     "timeMonth": 672,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2025-11-01": 75,
+      "2025-11-01": 78,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
