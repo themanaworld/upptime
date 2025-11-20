@@ -17,9 +17,9 @@ sites: # List of endpoints to track
 #    url: $GLADOS
 #    port: 443
 #    icon: https://avatars3.githubusercontent.com/ovh
-  - name: '[OVH] Serenata'
-    url: http://serenata.tmw2.org
-    icon: https://avatars3.githubusercontent.com/ovh
+#  - name: '[OVH] Serenata'
+#    url: http://serenata.tmw2.org
+#    icon: https://avatars3.githubusercontent.com/ovh
   - name: '[Azure] Homepage'
     url: https://www.themanaworld.org
     icon: https://avatars.githubusercontent.com/u/9950313
