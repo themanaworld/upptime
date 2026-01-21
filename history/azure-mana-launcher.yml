@@ -1,7 +1,7 @@
 url: https://api.themanaworld.org:13370/status/ping
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-20T23:11:00.953Z
+status: up
+code: 403
+responseTime: 577
+lastUpdated: 2026-01-21T13:42:33.105Z
 startTime: 2021-08-29T21:10:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
