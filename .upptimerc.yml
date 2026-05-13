@@ -4,7 +4,7 @@ user-agent: koj-co
 sites: # List of endpoints to track
   - name: '[Azure] Azure VM'
     check: "tcp-ping"
-    url: $DEZILAROMED
+    url: $AURORA
     port: 443
     icon: https://avatars.githubusercontent.com/u/6154722
   - name: '[Agnus] Agnus Dei VM'
@@ -51,14 +51,14 @@ sites: # List of endpoints to track
     icon: https://avatars.githubusercontent.com/u/6154722
   - name: '[Azure] Legacy server'
     check: "tcp-ping"
-    url: $DEZILAROMED
+    url: $AURORA
     port: 6122
     icon: https://avatars.githubusercontent.com/u/6154722
-  - name: '[Azure] Legacy Test server'
-    check: "tcp-ping"
-    url: $DEZILAROMED
-    port: 6125
-    icon: https://avatars.githubusercontent.com/u/6154722
+#  - name: '[Azure] Legacy Test server'
+#    check: "tcp-ping"
+#    url: $AURORA
+#    port: 6125
+#    icon: https://avatars.githubusercontent.com/u/6154722
   - name: '[Agnus] Moubootaur Legends server'
     check: "tcp-ping"
     url: $AGNUS
