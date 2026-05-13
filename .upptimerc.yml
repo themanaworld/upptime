@@ -59,16 +59,6 @@ sites: # List of endpoints to track
     url: $DEZILAROMED
     port: 6125
     icon: https://avatars.githubusercontent.com/u/6154722
-  - name: '[Azure] rEvolt server'
-    check: "tcp-ping"
-    url: $DEZILAROMED
-    port: 6169
-    icon: https://avatars.githubusercontent.com/u/6154722
-  - name: '[Azure] Crossroads server'
-    check: "tcp-ping"
-    url: $DEZILAROMED
-    port: 6900
-    icon: https://avatars.githubusercontent.com/u/6154722
   - name: '[Agnus] Moubootaur Legends server'
     check: "tcp-ping"
     url: $AGNUS
