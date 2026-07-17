@@ -146,17 +146,17 @@
     "url": "https://wiki.themanaworld.org",
     "icon": "https://avatars.githubusercontent.com/u/47359",
     "slug": "miraheze-wiki",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.81%",
-    "time": 936,
-    "timeDay": 0,
-    "timeWeek": 1061,
-    "timeMonth": 1062,
-    "timeYear": 944,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "94.10%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.80%",
+    "time": 1034,
+    "timeDay": 58897,
+    "timeWeek": 9324,
+    "timeMonth": 2990,
+    "timeYear": 1074,
     "dailyMinutesDown": {
       "2025-07-31": 31,
       "2025-08-17": 14,
@@ -186,7 +186,7 @@
       "2026-01-27": 27,
       "2026-03-05": 203,
       "2026-05-18": 61,
-      "2026-07-17": 11
+      "2026-07-17": 85
     }
   },
   {
@@ -194,17 +194,17 @@
     "url": "https://oldwiki.themanaworld.org",
     "icon": "https://avatars.githubusercontent.com/u/47359",
     "slug": "azure-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "79.20%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "94.82%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "19.40%",
-    "time": 783,
-    "timeDay": 0,
-    "timeWeek": 1433,
-    "timeMonth": 1443,
-    "timeYear": 777,
+    "time": 811,
+    "timeDay": 14981,
+    "timeWeek": 3368,
+    "timeMonth": 1895,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2026-05-07": 1142,
       "2026-05-06": 1440,
@@ -500,7 +500,7 @@
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
-      "2026-07-17": 1
+      "2026-07-17": 75
     }
   },
   {
