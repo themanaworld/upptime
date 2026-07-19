@@ -29,11 +29,8 @@ sites: # List of endpoints to track
   - name: '[Azure] Forums'
     url: https://forums.themanaworld.org
     icon: https://avatars.githubusercontent.com/u/1412239
-  - name: '[Miraheze] Wiki'
-    url: https://wiki.themanaworld.org
-    icon: https://avatars.githubusercontent.com/u/47359
   - name: '[Azure] Wiki'
-    url: https://oldwiki.themanaworld.org
+    url: https://wiki.themanaworld.org
     icon: https://avatars.githubusercontent.com/u/47359
   - name: '[FRS] ManaVerse'
     url: https://manaplus.germantmw.de
