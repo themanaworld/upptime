@@ -1,7 +1,7 @@
 url: https://api.themanaworld.org/api/tmwa/server
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-07-27T14:27:41.925Z
+status: up
+code: 200
+responseTime: 441
+lastUpdated: 2026-07-27T16:13:40.805Z
 startTime: 2023-07-12T01:33:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
